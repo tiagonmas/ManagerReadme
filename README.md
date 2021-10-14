@@ -21,13 +21,14 @@ As Manager of a team, it is my job to:
 - One of the basic premises that I learned from one of [leaders](https://www.linkedin.com/in/derekburney/) is is to "do the right thing" #DTRT. 
 - Keep an open and constant communication with all my team members, with weekly 1:1 with my direct reports and a monthly 1:1 with all the team members and main stakeholders for my role, and an "Open Door" approach where anyone can contact me at any time, becoming that conversation my top priority, with the main goal of building trust by listening and understanding. 
 - I am responsible and attentive but I do not want to micro manage anyone.   Your success is ultimately my success, so I will go out of my way to try and make you successful.
-- I love transparency and feedback (which some times requires a lot of courage) 
+- I love transparency and feedback (which some times requires a lot of courage on both sides).
 - I am frequently on calls or in meetings.  I'm happy to IM via Teams and if I am able I will get back to you shortly. If it's burning, please txt my cell or call my cell.
--
 
-#My goals
-- Be a manager that all the people in my teams (and MSFT) trust and rely on
-- 
+
+# My goals
+- Be a manager that all the people in my teams (and MSFT) trust and rely on. This includes direct reports, indirect reports, managers, and peers. The expected impact is enabling me to help my team and our company to achieve their goals. 
+
+
 # How do I expect you to approach your job
 
 I expect you to do the right thing.   
