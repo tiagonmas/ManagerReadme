@@ -1,24 +1,34 @@
 # ManagerReadme
 A description of my management philosophies.
 
-One of the most compelling managers I know shared a document which highlighted his management style, philosophy and expectations when he joined our company and took over our team.  I found it useful and have continued the tradition. With each new role, the document is updated. I saw someone else published their ManagerReadme on github and decided to do the same. Thanks also to Joe Shirey from whom I have also cut-n-pasted some of his content.
+What is this document? I was referred to a set of documents called [Manager Readmes](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) by [@joeshirey](https://github.com/joeshirey) and forked this template from [@bethz](https://github.com/bethz/ManagerReadme). As Joe stated I also *"found it to be a great way to start the relationship, so I thought I would write my own borrowing from a number of examples. This README contains information about working with me (consider it a cheat sheet) and my role. This will be a living document that I will update over time."*
 
 # My job
 
 As Manager of a team, it is my job to:
 
-- Attract and retain talent
-- Manage and Build well-functioning teams
-- Help grow every person on the team technically and through their career (even if the next step is not on our team)
+- Attracting and ensuring we are bringing the best talent into the organization and retaining that talent. 
+-	Helping grow every person on the team technically and through their career (even if the next step is not on our team)
+-	Understanding the business and translating what we need to do into priorities for the team to create clarity.
+-	Ensuring that you have everything you need to do your job and that if there are barriers that I am finding ways to help you get around them
+-	Advocating for each member of the team
+-	Creating a culture that provides an environment where everyone on the team can do their best work.
+
   
 # How I approach my job
 
-My basic premise is to do the right thing. I will understand the business and translate that into priorities for the team.  I will ensure that you have what you need to do the job and if there are barriers, we will work together to address them. I am pleasantly persistent and am effective at addressing logjams.  I will also advocate for you and help you grow technically and in your career. I also like what I do and hope the same is true for you.  
+In all I do I try hard to follow Microsof't's [Model / Coach / Care](https://www.businessinsider.com.au/microsoft-is-using-growth-mindset-to-power-management-strategy-2019-11?r=US&IR=T) principles. And one of the basic premises that I learned from one of [leaders](https://www.linkedin.com/in/derekburney/) is is to "do the right thing" #DTRT. I will understand the business and translate that into priorities for the team.  I will ensure that you have what you need to do the job and if there are barriers, we will work together to address them. I am pleasantly persistent and am effective at addressing logjams.  I will also advocate for you and help you grow technically and in your career. I also like what I do and hope the same is true for you.  
+
+
+
 
 I am responsible and attentive but I do not want to micro manage anyone.   Your success is ultimately my success, so I will go out of my way to try and make you successful.  
 
 I am frequently on calls or in meetings.  I'm happy to IM via Skype or Teams if I am able or I will get back to you shortly. If it's burning, please txt my cell or call my cell.
 
+#My goals
+- Be a manager that all the people in my teams (and MSFT) trust and rely on
+- 
 # How do I expect you to approach your job
 
 I expect you to do the right thing.   
