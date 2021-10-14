@@ -8,10 +8,10 @@ What is this document? I was referred to a set of documents called [Manager Read
 As Manager of a team, it is my job to:
 
 - Attracting and ensuring we are bringing the best talent into the organization and retaining that talent. 
--	Helping grow every person on the team technically and through their career (even if the next step is not on our team)
+-	Helping grow every person on the team and through their career (even if the next step is not on our team)
 -	Understanding the business and translating what we need to do into priorities for the team to create clarity.
--	Ensuring that you have everything you need to do your job and that if there are barriers that I am finding ways to help you get around them
--	Advocating for each member of the team
+-	Ensuring that you have everything you need to do your job and that if there are barriers that I am finding ways to help you get around them.
+-	Advocating for each member of the team.
 -	Creating a culture that provides an environment where everyone on the team can do their best work.
 
   
@@ -19,11 +19,12 @@ As Manager of a team, it is my job to:
 
 - In all I do I try hard to follow Microsof't's [Model / Coach / Care](https://www.businessinsider.com.au/microsoft-is-using-growth-mindset-to-power-management-strategy-2019-11?r=US&IR=T) principles. 
 - One of the basic premises that I learned from one of [leaders](https://www.linkedin.com/in/derekburney/) is is to "do the right thing" #DTRT. 
+- Focus on driving alignment with the Core Priorities that are set for each individual in their Connects. Make sure core priorities are well understood and shared top/down/sideways.
 - Keep an open and constant communication with all my team members, with weekly 1:1 with my direct reports and a monthly 1:1 with all the team members and main stakeholders for my role, and an "Open Door" approach where anyone can contact me at any time, becoming that conversation my top priority, with the main goal of building trust by listening and understanding. 
 - I am responsible and attentive but I do not want to micro manage anyone.   Your success is ultimately my success, so I will go out of my way to try and make you successful.
 - I love transparency and feedback (which some times requires a lot of courage on both sides).
+- When working with remote teams, aim to visit the teams 2 or 3 times per quarter as face-to-face interactions help to build mutual knowledge and trust. 
 - I am frequently on calls or in meetings.  I'm happy to IM via Teams and if I am able I will get back to you shortly. If it's burning, please txt my cell or call my cell.
-
 
 # My goals
 - Be a manager that all the people in my teams (and MSFT) trust and rely on. This includes direct reports, indirect reports, managers, and peers. The expected impact is enabling me to help my team and our company to achieve their goals. 
