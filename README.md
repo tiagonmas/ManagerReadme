@@ -17,14 +17,13 @@ As Manager of a team, it is my job to:
   
 # How I approach my job
 
-In all I do I try hard to follow Microsof't's [Model / Coach / Care](https://www.businessinsider.com.au/microsoft-is-using-growth-mindset-to-power-management-strategy-2019-11?r=US&IR=T) principles. And one of the basic premises that I learned from one of [leaders](https://www.linkedin.com/in/derekburney/) is is to "do the right thing" #DTRT. I will understand the business and translate that into priorities for the team.  I will ensure that you have what you need to do the job and if there are barriers, we will work together to address them. I am pleasantly persistent and am effective at addressing logjams.  I will also advocate for you and help you grow technically and in your career. I also like what I do and hope the same is true for you.  
-
-
-
-
-I am responsible and attentive but I do not want to micro manage anyone.   Your success is ultimately my success, so I will go out of my way to try and make you successful.  
-
-I am frequently on calls or in meetings.  I'm happy to IM via Skype or Teams if I am able or I will get back to you shortly. If it's burning, please txt my cell or call my cell.
+- In all I do I try hard to follow Microsof't's [Model / Coach / Care](https://www.businessinsider.com.au/microsoft-is-using-growth-mindset-to-power-management-strategy-2019-11?r=US&IR=T) principles. 
+- One of the basic premises that I learned from one of [leaders](https://www.linkedin.com/in/derekburney/) is is to "do the right thing" #DTRT. 
+- Keep an open and constant communication with all my team members, with weekly 1:1 with my direct reports and a monthly 1:1 with all the team members and main stakeholders for my role, and an "Open Door" approach where anyone can contact me at any time, becoming that conversation my top priority, with the main goal of building trust by listening and understanding. 
+- I am responsible and attentive but I do not want to micro manage anyone.   Your success is ultimately my success, so I will go out of my way to try and make you successful.
+- I love transparency and feedback (which some times requires a lot of courage) 
+- I am frequently on calls or in meetings.  I'm happy to IM via Teams and if I am able I will get back to you shortly. If it's burning, please txt my cell or call my cell.
+-
 
 #My goals
 - Be a manager that all the people in my teams (and MSFT) trust and rely on
