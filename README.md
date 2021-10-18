@@ -18,7 +18,7 @@ As Manager of a team, it is my job to:
 # How I approach my job
 
 - I try hard to follow Microsof't's [Model / Coach / Care](https://www.businessinsider.com.au/microsoft-is-using-growth-mindset-to-power-management-strategy-2019-11?r=US&IR=T) principles. 
-- One of the basic premises that I learned from one of [leaders](https://www.linkedin.com/in/derekburney/) is is to "do the right thing" #DTRT. 
+- One of the basic premises that I learned from one of our [leaders](https://www.linkedin.com/in/derekburney/) is is to "do the right thing" #DTRT. 
 - Focus on driving alignment with the Core Priorities that are set for each individual in their Connects. Make sure core priorities are well understood and shared top/down/sideways.
 - Keep an open and constant communication with all my team members, with weekly 1:1 with my direct reports and a monthly 1:1 with all the team members and main stakeholders for my role, and an "Open Door" approach where anyone can contact me at any time, becoming that conversation my top priority, with the main goal of building trust by listening and understanding. 
 - I am responsible and attentive but I do not want to micro manage anyone. Your success is ultimately my success, so I will go out of my way to try and make you successful.
