@@ -1,7 +1,7 @@
 # Manager Readme
 A description of my management philosophies.
 
-What is this document? I was referred to a set of documents called [Manager Readmes](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) by [@joeshirey](https://github.com/joeshirey) and forked this template from [@bethz](https://github.com/bethz/ManagerReadme). As Joe stated I also *"found it to be a great way to start the relationship, so I thought I would write my own borrowing from a number of examples. This README contains information about working with me (consider it a cheat sheet) and my role. This will be a living document that I will update over time."*
+What is this document? I was referred to a set of documents called [Manager Readmes](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) by [@joeshirey](https://github.com/joeshirey) and forked this template from [@bethz](https://github.com/bethz/ManagerReadme). As Joe stated I also *"found it to be a great way to start the relationship, so I thought I would write my own borrowing from a number of examples. This README contains information about working with me (consider it a cheat sheet) and my role. This will be a living document that I will update over time."*. I also added some contributions from [@losamig](https://github.com/losamig)
 
 # My job
 
