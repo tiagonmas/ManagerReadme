@@ -24,7 +24,7 @@ As Manager of a team, it is my job to:
 - I am responsible and attentive but I do not want to micro manage anyone. Your success is ultimately my success, so I will go out of my way to try and make you successful.
 - I love transparency and feedback (which some times requires a lot of courage on both sides).
 - When working with remote teams, aim to visit the teams 2 or 3 times per quarter as face-to-face interactions help to build mutual knowledge and trust. 
-- I am frequently on calls or in meetings.  I'm happy to IM via Teams and if I am able I will get back to you shortly. If it's burning, please txt my cell or call my cell.
+- I am frequently on calls or in meetings.  I'm happy to IM via Teams and if I am able I will get back to you shortly. If it's burning, please txt or call my cell.
 - I work on a flexible schedule. I'll take some breaks during the day to exercise, and I'll sometimes start the day very early or end very late to accomodate multiple time zones. Meaning that sometimes I might not be at my desk during "normal working hours" - But I'll reply shortly.
 
 # My goals
