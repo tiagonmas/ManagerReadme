@@ -96,20 +96,4 @@ Typically, I believe it is my responsibility to let my management know clearly i
 - I have tried to hire people who naturally have an engineering curiosity. When you have nothing on your plate I expect you will be using your free time to upskill on something new.  Generally, it is expected upskill on items relevant to our org although that's a pretty broad target.
 - I have found that outstanding people in our organization tend to have breadth and a deep technical reputation in a specific area.  I am happy to help you make sure you are focused on a specific technical area that is relevant to the org.
   
-# Meeting Norms
 
-- Do the right thing
-- Our meetings will begin and end on time.
-  - Time is a precious resource, one of the core values for our org is being on time for meetings. I'd ask you to do the same. 
-  - Please pay attention to your calendar and use whatever notification system works for you. There is nothing worse than having a meeting and spending 5 minutes while we IM/Text people to see if they are joining the call. 
-  - If you are unable to attend a meeting, please let the organizer know
-- We will listen to each other and not interrupt.
-- No need to agree but disagree in an agreeable manner.
-  - I'm a firm believer in disagree and commit. 
-- We will make sure everyone has had a chance to speak.
-- We will speak respectfully to each other.
-  - Be mindful of our humor. 
-
-# Summary
-
-In my prior team, we each did our own thing but we were very supportive of each other. We not only had great success, but we enjoyed what we do and appreciated working with each other. Each of you has different skills, a variety of experiences, diverse interests and an assortment of goals.  Those differences make us more capable as a team.    We each bring skills to the team that are valuable while we are being provided the wonderful opportunity to learn and grow.  It's a wonderful time to be on Retail with Azure. This is a fantastic opportunity and I'm looking forward to working with you in FY19!
