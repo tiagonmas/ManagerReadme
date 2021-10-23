@@ -45,7 +45,6 @@ The CSE team has a weekly Rhythm of Business, ROB.  That means that there is a w
 A few times when I would like you to chat with me before making a commitment:
 
 - Any commitment that requires you to travel outside of your country or internationally. Travel is expensive and I want to confirm the reasons we are doing this before we commit.
-- Any project that will be longer than one week, especially if travel is required each week.  I want to make sure we are doing the right thing for you and optimizing for the right reasons.  We may adjust the duration as group needs change.
 - Any time you are not sure if you should take something on because of your existing commitments or concerns about being technically ready, or if you have been traveling a lot, let me know and I can help you prioritize.
 
 I want you to be empowered to make decisions about your projects/activities as much as possible with me serving as a guide. I believe everyone on the team is capable and competent and I will treat you accordingly.  
