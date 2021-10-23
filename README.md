@@ -53,25 +53,14 @@ Hope you follow "operational excellence", by reporting according to our procedur
 
 # Vacation
 
-With regards to vacation, please submit your vacation request in our tool. If you have a commitment that you have made, I trust that you won’t take vacation over it.  Before you go, please send out a non-blocking, no reminder, meeting request to me and others on my team as well as other people you are actively working with. I also ask that when you are on vacation, set an OOTO message and fully disconnect. Prior to going on vacation, in order to have a seamless experience, please engage a peer for coverage.  
-
-
+Please submit your vacation request in our tool. If you have a commitment that you have made, I trust that you won’t take vacation over it.  Before you go, please send out a non-blocking, no reminder, meeting request to me and others on my team as well as other people you are actively working with. I also ask that when you are on vacation, set an OOTO message and fully disconnect. Prior to going on vacation, in order to have a seamless experience, please engage a peer for coverage.  
 
 Likewise, if you need to do something personal during work hours you don’t need to ask for permission. Just book it on your calendar as out.  Again, do the right thing. That includes an honest weeks work.
 
-# Calendar
-
-More on this in next weeks meeting.
-I will also be investigating if we can have a group vacation/OOTO calendar. More on that later.
-
-# Process
-Every job has a set of operational items which may not be fun but are a requirement of the job. This job is no exception. Any time I need to spend to chase you down or explain to upper management why you didn’t get something done or reject an expense report is wasted time. Please do your activity tracking, expenses, internal training, etc. done on time and correctly. 
-We'll know more about weekly reports and VSTS soon.
-
 # 1:1's
-Starting next week, everyone should schedule a weekly, 1:1 with me. I prefer that you schedule the meeting so it works in your time zone and you can avoid interrupting other meetings or work.
+Everyone should schedule a weekly, 1:1 with me. I prefer that you schedule the meeting so it works in your time zone and you can avoid interrupting other meetings or work.
 
-One of my key philosophies is that I have a motivated team that I don't need to micromanage.  I like to keep 1:1s less about the status of your work and more about how work is going, how I can be a sounding board for your ideas and if there is anything I can do to guide you, coach you or anything else that can improve your career.  More on that below.
+One of my key philosophies is that I have a motivated team that I don't need to micromanage.  I like to keep 1:1s less about the status of your work and more about how work is going, how I can be a sounding board for your ideas and if there is anything I can do to guide you, coach you or anything else that can improve your career.  
 
 If I'm traveling, I may, on occasion need to cancel due to timezone issues or conflicts. If I need to cancel, I can always make time for IMs or a conversation at another time.  
 
@@ -79,7 +68,7 @@ If I'm traveling, I may, on occasion need to cancel due to timezone issues or co
 
 We will have 2-3 Connects each year and once a year we will discuss Rewards. These are the official tools at Microsoft where we document Performance. However, I will do whatever I can to make these non-events. My goal is to have performance and feedback be part of an ongoing dialog rather than 2-3 points in time a year. If you ever are concerned about how I am viewing your performance please let me know so we can discuss.
 
-Conversely, I expect you to provide me feedback too. If I am doing anything that impacts your happiness at work or your ability to do your best work please do me a favor and let me know. I am good at taking feedback and like to know so I can work on it. Please don’t raise things in Poll that haven’t been brought to my attention.  
+Conversely, I expect you to provide me feedback too. If I am doing anything that impacts your happiness at work or your ability to do your best work please do me a favor and let me know. I am good at taking feedback and like to know so I can work on it. 
 
 # Work Life Balance
 
