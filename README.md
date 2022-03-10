@@ -16,10 +16,6 @@ As Manager of a team, it is my job to:
 -	Advocate for each member of the team.
 -	Create a culture that provides an environment where everyone on the team can do their best work.
 
-==Coach and care come through clearly in this list. What would it look like if you included a modeling component about your IC work?==
-
-==There are clear elements of create clarity and generate energy in this list. How would "deliver success" fit into this list?== 
-
   
 # How I approach my job
 
