@@ -4,25 +4,30 @@ A description of my management philosophies.
 What is this document? I was referred to a set of documents called [Manager Readmes](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) by [@joeshirey](https://github.com/joeshirey) and forked this template from [@bethz](https://github.com/bethz/ManagerReadme). As Joe stated I also *"found it to be a great way to start the relationship, so I thought I would write my own borrowing from a number of examples. This README contains information about working with me (consider it a cheat sheet) and my role. This will be a living document that I will update over time."*. I also added some contributions from [@losamig](https://github.com/losamig)
 
 I also created a [Personal Mission Statement](PersonalMissionStatement.md).
+
 # My job
 
 As Manager of a team, it is my job to:
 
-- Attracting and ensuring we are bringing the best talent into the organization and retaining that talent. 
--	Helping grow every person on the team and through their career (even if the next step is not on our team)
--	Understanding the business and translating what we need to do into priorities for the team to create clarity.
--	Ensuring that you have everything you need to do your job and that if there are barriers that I am finding ways to help you get around them.
--	Advocating for each member of the team.
--	Creating a culture that provides an environment where everyone on the team can do their best work.
+-   Attract and ensure we are bringing the best talent into the organization and ensure we retain that talent. 
+-	Help grow every person on the team and through their career, even if the next step is not on our team.
+-	Understand the business and translate what we need to do into priorities for the team to create clarity.
+-	Ensure that you have everything you need to do your job and that when there are barriers we work together to get around them.
+-	Advocate for each member of the team.
+-	Create a culture that provides an environment where everyone on the team can do their best work.
+
+==Coach and care come through clearly in this list. What would it look like if you included a modeling component about your IC work?==
+
+==There are clear elements of create clarity and generate energy in this list. How would "deliver success" fit into this list?== 
 
   
 # How I approach my job
 
-- I try hard to follow Microsof't's [Model / Coach / Care](https://www.businessinsider.com.au/microsoft-is-using-growth-mindset-to-power-management-strategy-2019-11?r=US&IR=T) principles. 
+- I actively embrace Microsof't's [Model / Coach / Care](https://www.businessinsider.com.au/microsoft-is-using-growth-mindset-to-power-management-strategy-2019-11?r=US&IR=T) principles. 
 - One of the basic premises that I learned from one of our [leaders](https://www.linkedin.com/in/derekburney/) is is to "do the right thing" #DTRT. 
 - Focus on driving alignment with the Core Priorities that are set for each individual in their Connects. Make sure core priorities are well understood and shared top/down/sideways.
 - Keep an open and constant communication with all my team members, with weekly 1:1 with my direct reports and a monthly 1:1 with all the team members and main stakeholders for my role, and an "Open Door" approach where anyone can contact me at any time, becoming that conversation my top priority, with the main goal of building trust by listening and understanding. 
-- I am responsible and attentive but I do not want to micro manage anyone. Your success is ultimately my success, so I will go out of my way to try and make you successful.
+- I am responsible and attentive but I do not want to micro manage anyone. Your success is ultimately my success, so I will go out of my way to try and make you successful. ==What does this mean practically?==
 - I love transparency and feedback (which some times requires a lot of courage on both sides).
 - When working with remote teams, aim to visit the teams 2 or 3 times per quarter as face-to-face interactions help to build mutual knowledge and trust. 
 - I am frequently on calls or in meetings.  I'm happy to IM via Teams and if I am able I will get back to you shortly. If it's burning, please txt or call my cell.
@@ -39,6 +44,7 @@ I expect you to do the right thing.
 Your daily work will be guided by our team priorities.  If there are barriers, I'll work with you to find ways to get around them or address them.  If there is an issue you cannot manage, or require guidance, please let me know.  I am here to provide guidance and mentorship, either directly or by finding people to help.  Frequently, PMs or Leads will go to you directly.  I am ok with that as you know your availability better than me and it is more efficient than my being in the middle.  I want my role to be to support your decisions on priorities and help you say no when appropriate. One thing to note: if you commit to a project, I expect you to live up to your commitments (barring emergencies).
 
 If you know you cannot live up to a commitment, I expect you to promptly notify those who will be impacted.
+
 Celebrate success, yours and others.
 
 The CSE team has a weekly Rhythm of Business, ROB.  That means that there is a weekly cadence for status reporting. 
@@ -67,9 +73,9 @@ If I'm traveling, I may, on occasion need to cancel due to timezone issues or co
 
 # Performance and Feedback
 
-We will have 2-3 Connects each year and once a year we will discuss Rewards. These are the official tools at Microsoft where we document Performance. However, I will do whatever I can to make these non-events. My goal is to have performance and feedback be part of an ongoing dialog rather than 2-3 points in time a year. If you ever are concerned about how I am viewing your performance please let me know so we can discuss.
+We will have 2-3 Connects each year and once a year we will discuss Rewards. These are the official tools at Microsoft where we document expectations and impact. However, I will do whatever I can to make these non-events. My goal is to have expectations, performance, and feedback be part of an ongoing dialog rather than 2-3 points in time a year. If you ever are concerned about how I am viewing your performance please let me know so we can discuss.
 
-Conversely, I expect you to provide me feedback too. If I am doing anything that impacts your happiness at work or your ability to do your best work please do me a favor and let me know. I am good at taking feedback and like to know so I can work on it. 
+Conversely, I expect you to provide me feedback too. If I am doing anything that impacts your happiness at work or your ability to do your best work please, let me know. I am good at taking feedback and like to know so I can work on it. 
 
 # Work Life Balance
 
@@ -87,4 +93,3 @@ Typically, I believe it is my responsibility to let my management know clearly i
 - I have tried to hire people who naturally have an engineering curiosity. When you have nothing on your plate I expect you will be using your free time to upskill on something new.  Generally, it is expected upskill on items relevant to our org although that's a pretty broad target.
 - I have found that outstanding people in our organization tend to have breadth and a deep technical reputation in a specific area.  I am happy to help you make sure you are focused on a specific technical area that is relevant to the org.
   
-
